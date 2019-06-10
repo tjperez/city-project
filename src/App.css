@@ -1,0 +1,49 @@
+.App {
+  text-align: center;
+}
+
+.title {
+  margin: 1.5em 50px;
+  padding: 50px;
+  background-color: rgb(243, 243, 231);
+  text-align: center;
+  font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+
+.e-city {
+  text-align: center;
+  font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+
+.input {
+  display: block;
+  font-size: 22px;
+  height: 50px;
+  margin: 0 auto;
+  text-align: center;
+  width: 50%;
+  font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif
+}
+
+.h2 {
+  text-align: center;
+  font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif; 
+}
+
+.h3 {
+  text-align: center;
+  font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif; 
+}
+
+.city-result {
+  background-color: rgb(243, 243, 243);
+  box-shadow: 2px 2px 4px 0 #ccc;
+  box-sizing: border-box;
+  text-align: center;
+  column-gap: 1.5em;
+  font-size: .90em;
+  margin: 1.5em 70px;
+  padding: 30px;
+  font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+
