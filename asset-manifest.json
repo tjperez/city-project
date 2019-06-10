@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/city-project/static/css/main.ff75b6a3.chunk.css",
+    "main.js": "/city-project/static/js/main.7d653963.chunk.js",
+    "main.js.map": "/city-project/static/js/main.7d653963.chunk.js.map",
+    "runtime~main.js": "/city-project/static/js/runtime~main.28a3c139.js",
+    "runtime~main.js.map": "/city-project/static/js/runtime~main.28a3c139.js.map",
+    "static/js/2.b2ca986f.chunk.js": "/city-project/static/js/2.b2ca986f.chunk.js",
+    "static/js/2.b2ca986f.chunk.js.map": "/city-project/static/js/2.b2ca986f.chunk.js.map",
+    "index.html": "/city-project/index.html",
+    "precache-manifest.d6105acd687fd560d226eb81b897faf7.js": "/city-project/precache-manifest.d6105acd687fd560d226eb81b897faf7.js",
+    "service-worker.js": "/city-project/service-worker.js",
+    "static/css/main.ff75b6a3.chunk.css.map": "/city-project/static/css/main.ff75b6a3.chunk.css.map"
+  }
+}
